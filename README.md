@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# frequentdirections [![Build Status](https://travis-ci.com/shinichi-takayanagi/frequentdirections.svg?branch=master)](https://travis-ci.com/shinichi-takayanagi/frequentdirections)
+# frequentdirections [![Build Status](https://travis-ci.com/shinichi-takayanagi/frequentdirections.svg?branch=master)](https://travis-ci.com/shinichi-takayanagi/frequentdirections) [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/frequentdirections)](https://cran.r-project.org/package=frequentdirections)
 
 Implementation of Frequent-Directions algorithm for efficient matrix
 sketching \[E. Liberty, SIGKDD2013\]
@@ -9,7 +9,7 @@ sketching \[E. Liberty, SIGKDD2013\]
 ## Installation
 
 ``` r
-# Not yet onCRAN
+# From CRAN
 install.packages("frequentdirections")
 
 # Or the development version from GitHub:
